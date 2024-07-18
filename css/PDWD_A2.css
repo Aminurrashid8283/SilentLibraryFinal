@@ -1,0 +1,17 @@
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 25%;
+}
+
+.centered-sm{
+    position: absolute;
+    top: 20%;
+    left: 33%;
+}
+
+.set-nav-color{
+
+    background-color: #658E9C;
+}
+
